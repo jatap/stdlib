@@ -1,3 +1,22 @@
+commit f46067ee478fba449bf347275049064bd552a8c6
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 06:02:42 2012 +0200
+
+    - Updating README.md.
+
+commit eb06fa76359de9881d95f39529ea191a57b85c34
+Merge: bd603dc 888977d
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 04:45:50 2012 +0200
+
+    - Merge branch 'release-1.0' into develop
+
+commit 888977daa19b9a047565a1d61ce6341971cb2145
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 04:45:10 2012 +0200
+
+    - Bumped version to number 1.0.
+
 commit bd603dcc37bf2fab1d3cddc2f824adfffc66f761
 Merge: 6cc092f 763ea06
 Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>

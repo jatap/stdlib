@@ -1,5 +1,8 @@
-Julio Antúnez Tarín (3):
+Julio Antúnez Tarín (6):
       - First sending.
       - Added Collection Library.     - Added Options Library.     - Added Overloading Library.
       - Merge branch 'feature-start' into develop
+      - Bumped version to number 1.0.
+      - Merge branch 'release-1.0' into develop
+      - Updating README.md.
 
